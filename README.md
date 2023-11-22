@@ -1,5 +1,7 @@
 # beadando
 Keszler Bálint Máté {XVG9QZ}
+
+
 A ToDoList osztály felelős a teendők kezeléséért, hozzáadásáért és törléséért. A teendőket egy egyszerű listában tárolja.
 
 A ToDoListGUI osztály létrehozza a grafikus felületet, amely tartalmaz egy beviteli mezőt a teendők hozzáadásához, egy gombot a hozzáadáshoz, egy listbox-ot a teendők megjelenítéséhez, valamint egy törlés gombot.
